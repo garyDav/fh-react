@@ -14,7 +14,7 @@
 
 * Despues de cada aplicación, tendrá su sección de pruebas.
 
-* Tendremos varios ejercicos y tareas.
+* Tendremos varios ejercicios y tareas.
 
 #### Requisitos previos
 
