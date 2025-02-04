@@ -1,9 +1,7 @@
-import { useState } from 'react'
+import { usestate } from 'react'
 
-function App () {
-  return (
-    <h1>Curso de React</h1>
-  )
+function app() {
+  return <h1>curso de react</h1>
 }
 
-export default App
+export default app

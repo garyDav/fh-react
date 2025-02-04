@@ -2,6 +2,10 @@
 
 ## Configuración del proyecto
 
+```shell
+pnpm create vite # Crear un proyecto de Vite
+```
+
 ### Instalación de ESLINT y PRETTIER
 
 ```shell
